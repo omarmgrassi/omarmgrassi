@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola a todos soy Omar!👋🧉🇦🇷
+
+> Después de todo tu eres la única muralla. Si no te saltas nunca darás un solo paso.
+
+— La búsqueda de la estrella. Luis Alberto Spinetta
+
+
+
+- 🌱 Actualmente me estoy formando como full stack web developer ...
 
 <!--
 **omarmgrassi/omarmgrassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
